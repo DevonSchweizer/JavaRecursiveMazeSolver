@@ -1,9 +1,7 @@
-
 package mazeproject;
-
 /**
  *
- * @author DEVON
+ * @author Devon Schweizer
  */
 public class Maze
 {
